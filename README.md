@@ -1,4 +1,4 @@
-# Phishing Dataset Genarator
+# Phishing URL DETECTION
 
 Open tarminal and type 
 ```
