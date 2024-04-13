@@ -2,11 +2,11 @@
 
 Open tarminal and type 
 ```
-git clone https://github.com/Amsiam/phising-dataset.git
+git clone https://github.com/Amsiam/Phishing-URL-Detection.git
 ```
 then 
 ```
-cd phising-dataset
+cd Phishing-URL-Detection
 ```
 Create a virtual environment
 ```
@@ -24,4 +24,10 @@ pip install -r requirements.txt
 Now you good to go to use 
 ```
 python app.py
+```
+
+now you can visite to check result
+
+```
+http://127.0.0.1:5000
 ```
